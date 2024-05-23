@@ -1,0 +1,17 @@
+.loader i {
+
+    font-size: 5rem;
+    color: #212245;
+    cursor: pointer;
+    /* align-items: center; */
+    justify-content: center;
+    margin-bottom: 10px;
+    /* width: 100%; */
+    display: flex;
+    color: #df2020;
+    transform: translate(-50%, -50%);
+    background-color: transparent;
+    /* animation: spin-anim 1.2s linear infinite; */
+
+
+}
